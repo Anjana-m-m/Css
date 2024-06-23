@@ -1,0 +1,18 @@
+body {
+    background-color:whitesmoke;
+    padding: 20px;
+}
+.heading {
+color: purple;
+}
+.container {
+    text-align: center;
+}
+
+header {
+    display: inline-block; 
+    text-align: centre;
+    justify-content: centre;
+    padding-bottom: 10px;
+    margin-bottom:20px;
+}
